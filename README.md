@@ -1,7 +1,10 @@
-## Hi there 👋
-
+<h1>Hi, I'm Obed! <br/><a href="https://github.com/obedstacks">a great programmer!!</a>
+<h2>👨‍💻 Some of the projects i have done:</h2>
+<h3>some incoming project this page needs updating, give me a bit of time</h3>
+- <b>Python</b>
+  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 <!--
-**obedstacks/obedstacks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
