@@ -3,7 +3,7 @@
 <h3>some incoming project this page needs updating, give me a bit of time</h3>
 - <b>Python</b>
   
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**obestacks the star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
