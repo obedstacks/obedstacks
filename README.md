@@ -5,6 +5,10 @@
 - <b>cleaning and exploritory projects:</b>
   - [covid layoffs](https://github.com/obedstacks/Covid-Layoffs/tree/main)
 
+- <b>RStudio sessions:</b>
+  - [regression](https://github.com/obedstacks/regression)
+  - [DiD](https://github.com/obedstacks/DiD)
+
   
 **obedstacks the star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
