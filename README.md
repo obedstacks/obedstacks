@@ -11,6 +11,6 @@
   - [DiD](https://github.com/obedstacks/DiD)
 
   
-**obedstacks the star** is a ✨ _special_ ✨ repository because its I just recently started using github and will improve my biio. Thanks :) 
+**obedstacks the star**  I just recently started using github and will improve my biio. Thanks :) 
 
 
