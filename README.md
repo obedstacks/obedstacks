@@ -9,6 +9,8 @@
 - <b>RStudio sessions:</b>
   - [regression](https://github.com/obedstacks/regression)
   - [DiD](https://github.com/obedstacks/DiD)
+ 
+<h3>for additional project please check repositories</h3>
 
   
 **obedstacks the star**  I just recently started using github and will improve my biio. Thanks :) 
